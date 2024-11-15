@@ -1,3 +1,4 @@
 To support the AIvsTDD workshops online and at ATD 2024
 
-![image](https://github.com/user-attachments/assets/8b5bedbd-b8a7-4d53-aba1-744bae3b53bc)
+![image](https://github.com/user-attachments/assets/d3999c8e-93c4-45ee-b99a-8ab41e2e178a)
+
