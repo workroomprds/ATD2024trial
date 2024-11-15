@@ -1,4 +1,4 @@
-from src.romanNumerals import romanToArabic, arabicToRoman
+from src.romanNumerals2 import romanToArabic, arabicToRoman
 import pytest
 
 def test_romanToArabic():
